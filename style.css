@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(228, 255, 220)
+}
+
+.header_div{
+    background: rgb(20, 192, 255);
+    color:rgb(0, 0, 0)
+}
+
+h2{
+    text-align: center;
+    font-weight: 600;
+    font-family:'tapestry',cursive; 
+}
+p{
+    text-align: center;
+    text-decoration:wavy;
+    font-style:oblique
+
+}
+h3{
+font-family: 'Tapestry', cursive;
+}
+#start{
+    background-color: rgb(20, 204, 255);
+    border-color:rgb(169, 255, 188);
+    border-width: 5px;
+    width:125px;
+    height:50px;
+    border-radius:30px;
+    margin-top: 30px;
+}
+
+
+    #cr{
+        background-color: rgb(0, 200, 255);
+        font-weight: 600;
+        font-size: 20px;
+        position: fixed;
+        width:100%;
+       text-shadow: 5px 5px 4px rgb(0, 255, 51);
+       line-height: 3;
+       text-align: center;
+       bottom:0;
+    }
+
